@@ -1,0 +1,31 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Av. Rovisco Pais 1, 1049-001 Lisboa"
+      
+    # - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+    #   info : "Phone: +880-31-000-000"
+      
+    # - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+    #   info : "Fax: +880-31-000-000"
+      
+    # - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+    #   info : "Email: hello@meghna.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "https://formspree.io/f/xdoqzkzz" #contact form works with https://formspree.io
+    method : POST
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"

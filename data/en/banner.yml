@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/cockpit.webp"
+  bg_image : "images/backgrounds/cockpit.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Overhead Panel"
+  content : "AirBus A320"
+  button:
+    enable : true
+    label : "Conhecer o Projeto"
+    link : "#about"

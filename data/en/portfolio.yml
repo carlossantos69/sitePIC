@@ -1,0 +1,94 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Overhead Panel AirBus A320
+  portfolio_item :
+    # portfolio item loop
+    - name : ADIRS PANEL
+      image : images/overhead/portfolio-1.jpg
+      image_webp : images/overhead/portfolio-1.webp
+      categories : ["design"]
+      content : A unidade de controlo Air Data Intertial Reference System (ADIRS) está localizada no topo superior esquerdo do overhead panel. 
+      
+      link : 
+      
+    # portfolio item loop
+    - name : FLT CTL PANEL
+      image : images/portfolio/portfolio-2.jpg
+      image_webp : images/portfolio/portfolio-2.webp
+      categories : ["design"]
+      content : O Flight Control Panel está localizado do lado esquerdo do overhead panel.
+      link : "https://themefisher.com"
+      
+    # portfolio item loop
+    - name : EVAC/EMER PWR/GPWS/RCDR/OXY/CALLS Panel
+      image : images/portfolio/portfolio-3.jpg
+      image_webp : images/portfolio/portfolio-3.webp
+      categories : ["design"]
+      content : O painel localizado na parte inferior esquerda do overhead panel, permite controlar diversos sistemas.
+      link : "https://themefisher.com"
+      
+    # portfolio item loop
+    - name : Fire Panel
+      image : images/portfolio/portfolio-4.jpg
+      image_webp : images/portfolio/portfolio-4.webp
+      categories : ["photography"]
+      content : O Fire Panel encontra-se no topo central do overhead panel, em cima do painel hidráulico e de combustível.
+      link : "https://themefisher.com"
+      
+    # portfolio item loop
+    - name : Hydraulics and Fuel Panels
+      image : images/portfolio/portfolio-1.jpg
+      image_webp : images/portfolio/portfolio-1.webp
+      categories : ["photography"]
+      content : Os painéis responsáveis pelos sistemas hidráulico e de combustível encontram-se no centro do overhead panel.
+      link : "https://themefisher.com"
+      
+    # portfolio item loop
+    - name : ELEC and AIR COND Panel
+      image : images/portfolio/portfolio-6.jpg
+      image_webp : images/portfolio/portfolio-6.webp
+      categories : ["photography"]
+      content : Os paineis responsáveis pelos sistemas elétrico e de ar condicionado estão localizados ao centro do overhead panel.
+      link : "https://themefisher.com"
+      
+    # portfolio item loop
+    - name : ANTI ICE, CABIN PRESS, EXT LT, APU, INT LT, SIGNS Panel
+      image : images/portfolio/portfolio-7.jpg
+      image_webp : images/portfolio/portfolio-7.webp
+      categories : ["photography"]
+      content : O painel localizado na parte inferior central do overhead panel, permite controlar diversos sistemas.
+      link : "https://themefisher.com"
+      
+    # portfolio item loop
+    - name : ACP Panel
+      image : images/portfolio/portfolio-8.jpg
+      image_webp : images/portfolio/portfolio-8.webp
+      categories : ["development"]
+      content : O painel ACP, ou painel de controlo de áudio está localizado em três sitios do cockpit, ao lado esquerdo e direito do throttle e do lado superior direito do overhead panel.
+      link : "https://themefisher.com"
+      
+    # portfolio item loop
+    - name : RMP Panel
+      image : images/portfolio/portfolio-2.jpg
+      image_webp : images/portfolio/portfolio-2.webp
+      categories : ["development"]
+      content : RMP ou Radio Management Panels está em baixo do painel ACP.
+      link : "https://themefisher.com"
+
+      # portfolio item loop
+    - name : FLT CTL panel
+      image : images/portfolio/portfolio-2.jpg
+      image_webp : images/portfolio/portfolio-2.webp
+      categories : ["development"]
+      content : O Flight Control Panel está localizado do lado direito do overhead panel.
+      link : "https://themefisher.com"
+
+
+        # portfolio item loop
+    - name : ENG/VENT/CARGO SMOKE
+      image : images/portfolio/portfolio-2.jpg
+      image_webp : images/portfolio/portfolio-2.webp
+      categories : ["development"]
+      content : Este painel está localizado do lado inferior direito do overhead panel.
+      link : "https://themefisher.com"

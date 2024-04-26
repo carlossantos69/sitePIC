@@ -1,0 +1,74 @@
+############################### team ############################
+team:
+  enable : true
+  title : A Equipa
+  team_member :
+    # team member loop
+    - name : Carlos Santos
+      image_webp : images/team/team-1.webp
+      image : images/team/team-1.jpg
+      designation : 
+      content : 
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/carlos-santos-373445288/"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        
+    # team member loop
+    - name : Tomás Corral
+      image_webp : images/team/team-2.webp
+      image : images/team/team-2.jpg
+      designation : 
+      content : 
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        
+    # team member loop
+    - name : Luís Ventura
+      image_webp : images/team/team-3.webp
+      image : images/team/team-3.jpg
+      designation : 
+      content : 
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        
+    # team member loop
+    - name : Afonso Jarego
+      image_webp : images/team/team-1.webp
+      image : images/team/team-1.webp
+      designation : 
+      content : 
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+
+    - name : João Rebelo
+      image_webp : images/team/team-2.webp
+      image : images/team/team-2.jpg
+      designation : 
+      content : 
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+
+    - name : Martim Monteiro
+      image_webp : images/team/team-3.webp
+      image : images/team/team-3.jpg
+      designation : 
+      content : 
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "#"

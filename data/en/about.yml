@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : O Projeto
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : O programa EletroCap
+    content : No âmbito da cadeira de Projeto Integrador de 1ºCiclo surge o programa ElectroCap que tem por base um desafio proposto a equipas de 6 alunos. Esses desafios devem identificar o problema que se procura resolver e a forma como o projeto, desenvolvido pelos 6 alunos irá contribuir para a sua solução.
+
+  - icon : ti-layout-grid3 # themify icon pack : https://themify.me/themify-icons
+    title : Overhead Panel
+    content : O overhead panel de um Airbus A320 tem várias funções importantes para o controlo dos sistemas da aeronave. Entre eles, Sistema de energia elétrica da aeronave, Iluminação, Comunicações, Sistema de combustível, Hidráulica, etc...
+
+  - icon : ti-game # themify icon pack : https://themify.me/themify-icons
+    title : Simuladores de voo
+    content : Os simuladores de voo são um recurso bastante valioso para o treino de futuros pilotos. O uso destes simuladores não constitui uma substituição do treino em aeronaves, mas sim um complemento a esse treino. No entanto, estes simuladores tem um custo bastante elevado, o que limita o seu acesso.

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Overhead Panel</title>
+    <link>https://web.tecnico.ulisboa.pt/ist1102985/blog/</link>
+    <description>Recent content in Blogs on Overhead Panel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2024 14:51:12 +0600</lastBuildDate>
+    <atom:link href="https://web.tecnico.ulisboa.pt/ist1102985/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terceira semana</title>
+      <link>https://web.tecnico.ulisboa.pt/ist1102985/blog/week3/</link>
+      <pubDate>Mon, 11 Mar 2024 14:51:12 +0600</pubDate>
+      <guid>https://web.tecnico.ulisboa.pt/ist1102985/blog/week3/</guid>
+      <description>AutoCad Foram discutidos quais os objetivos propostos para a apresentação intermédia do projeto. Acordámos em apresentar um botão em funcionamento e integrado.</description>
+    </item>
+    <item>
+      <title>Segunda semana</title>
+      <link>https://web.tecnico.ulisboa.pt/ist1102985/blog/week2/</link>
+      <pubDate>Mon, 04 Mar 2024 14:51:12 +0600</pubDate>
+      <guid>https://web.tecnico.ulisboa.pt/ist1102985/blog/week2/</guid>
+      <description>Esquemas de Circuitos Nesta semana o site foi hosted e procedeu-se à criação dos blogs.</description>
+    </item>
+    <item>
+      <title>Primeira Semana</title>
+      <link>https://web.tecnico.ulisboa.pt/ist1102985/blog/week1/</link>
+      <pubDate>Mon, 26 Feb 2024 14:51:12 +0600</pubDate>
+      <guid>https://web.tecnico.ulisboa.pt/ist1102985/blog/week1/</guid>
+      <description>O primeiro protótipo Na primeira semana de trabalho realizámos o primeiro protótipo de um botão.</description>
+    </item>
+  </channel>
+</rss>

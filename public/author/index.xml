@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Overhead Panel</title>
+    <link>https://web.tecnico.ulisboa.pt/ist1102985/author/</link>
+    <description>Recent content in Authors on Overhead Panel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://web.tecnico.ulisboa.pt/ist1102985/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>João Rebelo</title>
+      <link>https://web.tecnico.ulisboa.pt/ist1102985/author/jo%C3%A3o-rebelo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://web.tecnico.ulisboa.pt/ist1102985/author/jo%C3%A3o-rebelo/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    <item>
+      <title>Mark Dinn</title>
+      <link>https://web.tecnico.ulisboa.pt/ist1102985/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://web.tecnico.ulisboa.pt/ist1102985/author/mark-dinn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+  </channel>
+</rss>
